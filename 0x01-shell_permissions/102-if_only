@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --frommgui11aum=gui11aume betty hello
